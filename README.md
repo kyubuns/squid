@@ -1,5 +1,19 @@
 # Squid
 
+Photoshopで選択中のレイヤーまでのパスをクリップボードにコピーする。
+
+## 準備
+
+* squid.jsxをダウンロード
+* ダウンロードしたファイルを'/Applications/Adobe Photoshop CC 2014/Presets/Scripts/'以下にいれる
+ * (Windowsは、C:\Program Files\Adobe\Adobe Photoshop CC (64 Bit)\Presets\Scripts\)
+
+## 使い方
+
+パスが欲しいレイヤーを選択した状態で、
+File->Scripts->squid
+を選択するとクリップボードにコピーされる。
+
 ## LICENSE
 
 The MIT License (MIT)
